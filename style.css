@@ -1,0 +1,73 @@
+
+body{
+    background-image: url('img/background.png');
+    background-color: rgba(255,255,255,0.4)
+}
+
+
+
+
+.header{
+background-color: rgba(202, 240, 251, 255);
+height: 80px;
+margin-bottom: 40px;
+
+
+}
+
+
+.logo{
+    float: left;
+    margin-top: -75px;
+}
+
+form{
+    background-color: #5d4b7696;
+    float: left;
+
+    height: 400px;
+    margin-right: 100px;
+}
+
+
+#immg{
+height: 70px;
+width: 80px;
+
+
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+
+footer{
+
+background-color: #f376a288;
+
+}
+
+
+img{
+width: 200px;
+height: 200px;
+float: left;
+margin-right: 40px;
+
+
+
+}
+
+#data{
+background-color:  #5d4b7696;
+
+
+}
+
+
+
+
